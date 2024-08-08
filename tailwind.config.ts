@@ -13,6 +13,15 @@ const config: Config = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      fontFamily: {
+        sans: ['ui-sans-serif', 'system-ui', '-apple-system', 'BlinkMacSystemFont', '"Segoe UI"', 'Roboto', '"Helvetica Neue"', 'Arial', '"Noto Sans"', 'sans-serif'],
+        'the-signature': ['the-signature', 'sans-serif'],
+        'unbounded': ['unbounded', 'sans-serif'],
+      },
+      colors: {
+        'vista-white': '#faf9f5',
+        'dark-teal': '#004040',
+      },
     },
   },
   plugins: [],
