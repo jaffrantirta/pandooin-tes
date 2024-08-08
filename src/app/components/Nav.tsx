@@ -9,10 +9,10 @@ export default function Nav() {
             </a>
             <div className="inline-flex items-center gap-6">
                 <div className="hidden lg:inline-flex items-center gap-6">
-                    <a href="" className="px-6 py-2.5 text-white text-base font-bold hover:border-b-dark-teal hover:border-b-[2px] border-b-dark-teal border-b-[2px]">Homepage</a>
-                    <a href="" className="px-6 py-2.5 text-white text-base font-bold hover:border-b-dark-teal hover:border-b-[2px] false">Customize Your Trip</a>
-                    <a href="" className="px-6 py-2.5 text-white text-base font-bold hover:border-b-dark-teal hover:border-b-[2px] false">Destination</a>
-                    <a href="" className="px-6 py-2.5 text-white text-base font-bold hover:border-b-dark-teal hover:border-b-[2px] false">Article</a>
+                    <a href="" className="px-6 py-2.5 text-white text-base font-bold hover:border-white hover:border-b-[2px] border-white border-b-[2px]">Homepage</a>
+                    <a href="" className="px-6 py-2.5 text-white text-base font-bold hover:border-white hover:border-b-[2px] false">Customize Your Trip</a>
+                    <a href="" className="px-6 py-2.5 text-white text-base font-bold hover:border-white hover:border-b-[2px] false">Destination</a>
+                    <a href="" className="px-6 py-2.5 text-white text-base font-bold hover:border-white hover:border-b-[2px] false">Article</a>
                 </div>
             </div>
         </div>
